@@ -1,0 +1,11 @@
+.bestProduct{
+    background-Color:#DB7090 !important;
+    animation: clignote 3s linear infinite;
+    width: 18rem
+}
+.normalProduct{
+    width: 18rem
+}
+@keyframes clignote {
+    50% {opacity:0.5;}
+}
